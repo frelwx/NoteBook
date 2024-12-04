@@ -1,0 +1,527 @@
+{
+  "main": {
+    "id": "4ed67bff33da1b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c94004718e82c30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d567fa1b44ba17bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TBBR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TBBR"
+            }
+          },
+          {
+            "id": "07996c38e17d9be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cache.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cache"
+            }
+          },
+          {
+            "id": "defb1c7372ead2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cache.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cache"
+            }
+          },
+          {
+            "id": "5504bfb1735e6f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Ordering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory Ordering"
+            }
+          },
+          {
+            "id": "55f3e72742180ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BL1 概要.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BL1 概要"
+            }
+          },
+          {
+            "id": "26ee368d81e4a0b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linker"
+            }
+          },
+          {
+            "id": "af5dd502bcfc582c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xlab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "xlab"
+            }
+          },
+          {
+            "id": "9ad7708e8da30f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BL2 镜像格式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BL2 镜像格式"
+            }
+          },
+          {
+            "id": "093c7824cbeba00b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rom to do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rom to do"
+            }
+          },
+          {
+            "id": "71984ebd80d99807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cache.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cache"
+            }
+          },
+          {
+            "id": "296985266a20c314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ABI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ABI"
+            }
+          },
+          {
+            "id": "f04b1cb179fdc891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cache.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cache"
+            }
+          },
+          {
+            "id": "f0cf555dd37152b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "USB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "USB"
+            }
+          },
+          {
+            "id": "043b3064ac277ae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "USB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "USB"
+            }
+          },
+          {
+            "id": "b6018a7d80010086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xHCI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "xHCI"
+            }
+          },
+          {
+            "id": "4d62f78717ab1d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uboot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uboot"
+            }
+          },
+          {
+            "id": "bd68037b05bc945c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uboot qemu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "uboot qemu"
+            }
+          },
+          {
+            "id": "6f6901c7e1baf3c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uboot 设备树.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uboot 设备树"
+            }
+          },
+          {
+            "id": "04f5925cab095cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uboot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uboot"
+            }
+          },
+          {
+            "id": "11600099409fc776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uboot chroe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uboot chroe"
+            }
+          },
+          {
+            "id": "e2b1d15c959ae2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uboot DM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uboot DM"
+            }
+          },
+          {
+            "id": "f1318f23fc447912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crypto/GCM(Galois Counter Mode).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GCM(Galois Counter Mode)"
+            }
+          },
+          {
+            "id": "34b1b746e8ba4226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crypto/GCM(Galois Counter Mode).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GCM(Galois Counter Mode)"
+            }
+          }
+        ],
+        "currentTab": 22
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c77eb56167d16d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dac6aeaa9ce7f4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48a8a754d556b0c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "63aed699d546d59b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9879af7351277b4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04d152b8b84bb739",
+    "type": "split",
+    "children": [
+      {
+        "id": "999b90979d89fc84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f17374b1bdf9eb1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mermaid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "mermaid 的反向链接列表"
+            }
+          },
+          {
+            "id": "bdb03064dfcf7f6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mermaid.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "mermaid 的出链列表"
+            }
+          },
+          {
+            "id": "2cf23488adab545a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1c87a5647513aa10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "crypto/GCM(Galois Counter Mode).md"
+              },
+              "icon": "lucide-list",
+              "title": "GCM(Galois Counter Mode) 的大纲"
+            }
+          },
+          {
+            "id": "dc5677334247a862",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "34b1b746e8ba4226",
+  "lastOpenFiles": [
+    "crypto/CCM.md",
+    "crypto/GCM(Galois Counter Mode).md",
+    "crypto/attachments/Pasted image 20241202234239.png",
+    "crypto/attachments/Pasted image 20241202223636.png",
+    "crypto/attachments/Pasted image 20241202222502.png",
+    "crypto/attachments/Pasted image 20241202222039.png",
+    "crypto/attachments",
+    "To do.md",
+    "crypto",
+    "Uboot DM.md",
+    "Uboot chroe.md",
+    "Uboot.md",
+    "USB.md",
+    "uboot qemu.md",
+    "Uboot build.md",
+    "Uboot 设备树.md",
+    "xHCI.md",
+    "USB2.md",
+    "cache.md",
+    "BL1 概要.md",
+    "attachments/Pasted image 20241113223832.png",
+    "ABI.md",
+    "mmu.md",
+    "Rom to do.md",
+    "BL2 镜像格式.md",
+    "linker.md",
+    "Memory Ordering.md",
+    "xlab.md",
+    "TBBR.md",
+    "mermaid.md",
+    "Pasted image 20241031215700.png",
+    "attachments/Pasted image 20241102211931.png",
+    "attachments/Pasted image 20241102211810.png",
+    "attachments/Pasted image 20241102211627.png",
+    "attachments/Pasted image 20241102211416.png",
+    "attachments",
+    "2024-06-23.md",
+    "未命名.canvas",
+    "hello.md"
+  ]
+}
